@@ -1,7 +1,7 @@
 # SEL0337 - PROJETOS EM SISTEMAS EMBARCADOS
 ## Prática 5: SystemD e personalização de serviços de inicialização em Linux embarcado
 
-[Repositório git] (https://github.com/DaniloSelli/SEL0337.git)
+[Repositório git](https://github.com/DaniloSelli/SEL0337.git)
 
 
 ### Índice
