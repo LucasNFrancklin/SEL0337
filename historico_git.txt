@@ -1,0 +1,23 @@
+commit 31adad8e4c518eeee2249199d38e5ab9e77305f4
+Author: DaniloSelli <azambujaselli@usp.br>
+Date:   Mon Nov 25 17:02:32 2024 -0300
+
+    adicionado histórico git
+
+commit 11af32cb62d3cb64476e49c64385e6620ca9a2c3
+Author: DaniloSelli <azambujaselli@usp.br>
+Date:   Mon Nov 25 16:59:28 2024 -0300
+
+    atualização README
+
+commit 2f42f52cb0c36c1856e274a51e1ad8302c70f521
+Author: DaniloSelli <azambujaselli@usp.br>
+Date:   Mon Nov 25 16:53:14 2024 -0300
+
+    envio dos códigos
+
+commit 4fedeb25ea5c71cf398c5dfa851c1a2456cccccc
+Author: DaniloSelli <113858031+DaniloSelli@users.noreply.github.com>
+Date:   Mon Nov 18 16:55:59 2024 -0300
+
+    Initial commit
