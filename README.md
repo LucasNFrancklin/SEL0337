@@ -18,7 +18,7 @@
 - [Parte 2](#Parte-2)
 
 ### Introdução
-Essa prática consiste em adicionar uma unidade de serviço personalizada (systemd service unit) para gerenciar a inicialização e execução desse projeto em sistemas embarcados com S.O. Linux. Tal ação irá permitir a inicialização automática da aplicação quando da inicialização (boot) do sistema operacional. Como forma de documentação do projeto, o Git será o sistema de versionamento e o GitHub como repositório, junto do histórico de versionamento.
+  Essa prática consiste em adicionar uma unidade de serviço personalizada (systemd service unit) para gerenciar a inicialização e execução desse projeto em sistemas embarcados com S.O. Linux. Tal ação irá permitir a inicialização automática da aplicação quando da inicialização (boot) do sistema operacional. Como forma de documentação do projeto, o Git será o sistema de versionamento e o GitHub como repositório, junto do histórico de versionamento.
 
 ### Parte 1
 
