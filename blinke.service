@@ -1,0 +1,10 @@
+[Unit]
+Description= Blinke LED
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/sel/8092/blink.py
+#ExecStop=
+user=SEL
+[Install]
+WantedBy=multi-user.target
