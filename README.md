@@ -114,7 +114,7 @@ Vídeo:
 
 
 
-[![Assistir o vídeo](https://via.placeholder.com/640x360.png?text=Assistir+ao+vídeo)](https://raw.githubusercontent.com/DaniloSelli/SEL0337/main/Docs/VideoInit.mp4)
+[![Assistir o vídeo](https://raw.githubusercontent.com/DaniloSelli/SEL0337/main/Docs/BotãoPress.jpeg)](https://raw.githubusercontent.com/DaniloSelli/SEL0337/main/Docs/VideoInit.mp4)
 
 ## Parte 2
   
