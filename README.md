@@ -110,11 +110,7 @@ Em projetos de sistemas embarcados, como este aplicado à Raspberry Pi, essas fe
 
 </div>
 
-Vídeo:
-
-
-
-[![Assistir o vídeo](https://raw.githubusercontent.com/DaniloSelli/SEL0337/main/Docs/BotãoPress.jpeg)](https://raw.githubusercontent.com/DaniloSelli/SEL0337/main/Docs/VideoInit.mp4)
+Vídeo: [Assistir o vídeo](https://raw.githubusercontent.com/DaniloSelli/SEL0337/main/Docs/VideoInit.mp4)
 
 ## Parte 2
   
