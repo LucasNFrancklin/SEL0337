@@ -110,10 +110,10 @@ Em projetos de sistemas embarcados, como este aplicado à Raspberry Pi, essas fe
 
 </div>
 
+Vídeo:
 
-<video width="300" height="380" controls>
-  <source src="Docs/VideoInit.mp4" type="video/mp4">
-</video>
+https://github.com/DaniloSelli/SEL0337/raw/refs/heads/main/Docs/VideoInit.mp4
+
 
 
 ## Parte 2
