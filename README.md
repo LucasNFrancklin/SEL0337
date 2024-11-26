@@ -112,6 +112,8 @@ Em projetos de sistemas embarcados, como este aplicado à Raspberry Pi, essas fe
 
 Vídeo:
 
+https://raw.githubusercontent.com/DaniloSelli/SEL0337/main/Docs/VideoInit.mp4
+
 https://github.com/DaniloSelli/SEL0337/raw/refs/heads/main/Docs/VideoInit.mp4
 
 
