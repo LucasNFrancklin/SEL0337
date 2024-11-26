@@ -102,6 +102,20 @@ Em projetos de sistemas embarcados, como este aplicado à Raspberry Pi, essas fe
 
 ## Parte 1
 
+<div align="center">
+
+| <img src="Docs/BotãoDespre.jpeg" width="300" height="380" /> | <img src="Docs/BotãoPress.jpeg" width="300" height="380" /> |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
+| <p align="center">Botão Despressionado</p>                    | <p align="center">Botão Pressionado</p>                    |
+
+</div>
+
+
+<video width="300" height="380" controls>
+  <source src="Docs/VideoInit.mp4" type="video/mp4">
+</video>
+
+
 ## Parte 2
   
 
